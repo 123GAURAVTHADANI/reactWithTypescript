@@ -13,5 +13,5 @@ export interface IProps{
 
   export interface ITheme{
     theme:string,
-    token:string
+    setTheme:(theme:string)=> void,
   }

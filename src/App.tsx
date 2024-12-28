@@ -57,7 +57,7 @@ const App:FC<IProps>=({name, age})=> {
      
      {/*handling your theme */}
      <Welcome>
-            <Child/>
+            {/* <Child/> */}
     </Welcome>
     
     </>
